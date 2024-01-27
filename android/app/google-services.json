@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116431922735",
+    "project_id": "travelbusbookingapp",
+    "storage_bucket": "travelbusbookingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116431922735:android:9a0911a7c247d232ca08da",
+        "android_client_info": {
+          "package_name": "com.example.travelbusbookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYp3GGq2e6aPMQt1QDkYhJrhMm6du3mr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
